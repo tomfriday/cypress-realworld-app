@@ -79,7 +79,7 @@ yarn install
 ```shell
 PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true yarn install
 ```
-
+test
 ### Run the app
 
 ```shell
